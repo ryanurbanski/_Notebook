@@ -1,4 +1,5 @@
 # Django Project Setup
+
 1. Create local directory
 2. Install django with pipenv, as well as Pipfile and Piplock:
 
@@ -14,6 +15,25 @@ $ pipenv shell
 4. Start project and name the root folder 'config' in the current directory:
 ```sh
 $ django-admin startproject config .
+$ django-admin startapp users 
+```
+
+
+## Custom User
+4. Add a custom user app as good practice for creating a custom user class
+```sh
+$ django-admin startapp users 
+```
+
+Once this is created, go to to models.py within the app directory that was just created and add:
+
+```py
+from django.contrib.auth.models import AbstractUser
+
+class CustomUser(AbstractUser):
+    pass
+    def __str__(self):
+        return self.username
 ```
 
 5. Migrate to SQLite local db for development:
