@@ -1,6 +1,19 @@
 # :scroll: Django Cheat Sheet
 A cheat-sheet for creating web apps with the Django framework using the Python language. Most of the summaries and examples are based on [the official documentation](https://docs.djangoproject.com/en/2.0/) for Django v2.0.
 
+## My django commands to remember
+
+Shell with automatic imports for django project
+```sh
+python manage.py shell_plus
+```
+
+Show a list of all urls endpoints for a django site
+ ```sh 
+pm show_urls
+ ```
+
+<hr>
 
 ***Taken from: [[github.com/lucrae/django-cheat-sheet]]((https://github.com/lucrae/django-cheat-sheet/blob/master/README.md)).  I've copied it in whole for reference and to learn how to make better markdown notes files.***
 
