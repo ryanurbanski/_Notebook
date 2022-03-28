@@ -66,7 +66,7 @@ $ python manage.py createsuperuser
 
 <br>
 
-## Install Packages
+## Extensions 
 
 ---
   
@@ -79,9 +79,26 @@ $ pipenv install django-registration-redux
 **Settings**
 - Install django.contrib.auth and django.contrib.sites to the project 
 
+<hr>
+
+### django-environ
+[Documentation](https://django-environ.readthedocs.io/en/latest/)
+
+```sh
+$ pipenv install django-environ
+```
+**Settings**
+- After install create a `.env` file in project root directory with the following sample example from our 'Flashcards' app:
 
 
+## 
+ ```sh 
+SECRET_KEY='django-insecure-6^g(edzu^8$*4zqud36mxge%d22*k)8y*f^5zcfda8(n4=hkv^'
+DEBUG=True
+DATABASE_URL=postgres://habbit-tracker:@127.0.0.1:5432/habbit-tracker
+ ```
 
+- take the secret key from settings.py and use the documentation to modify settings.py accordingly. 
 
 
 

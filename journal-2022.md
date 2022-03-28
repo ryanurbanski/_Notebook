@@ -13,3 +13,13 @@ This first entry in this journal was also created with my first custom snippet a
 
 
 
+
+## 2022-03-21 
+
+Day 1 of phase 3: Deploying Django to live Heroku site
+
+[Class Notes](https://momentum-team-11.github.io/page2/)
+
+[Markdown Guide](https://www.markdownguide.org/getting-started/)
+
+[Markdown Tutorial](https://www.markdowntutorial.com/)
