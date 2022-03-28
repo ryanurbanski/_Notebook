@@ -23,3 +23,13 @@ Day 1 of phase 3: Deploying Django to live Heroku site
 [Markdown Guide](https://www.markdownguide.org/getting-started/)
 
 [Markdown Tutorial](https://www.markdowntutorial.com/)
+
+[Mastering Markdown Video](https://masteringmarkdown.com/)
+
+### Depoloying Django
+
+- [Deploying a Django App to Heroku](https://momentumlearn.notion.site/Deploying-a-Django-App-to-Heroku-81488333c03445539bfc7eb3c1691ed0)
+
+- [Using Postgres Locally](https://momentumlearn.notion.site/Using-Postgres-Locally-6d24cd1ea8854eabb875023d6696fba9)
+
+- [Django Queries Cheatsheet](https://github.com/Momentum-Team-11/notes/blob/main/django-queries.md)
