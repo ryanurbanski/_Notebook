@@ -7,6 +7,7 @@
   - Use cmd-shift-F to open a search in a new window. 
   - Navigate files using VIM
   - Use `gd` when over a reference I want to go directly to
+- Find and replace all in a file
 
 # Personal bindings
 `<leader>`, `d` to add a snippet with the current year-month-day for journal entries

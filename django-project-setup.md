@@ -2,7 +2,7 @@
 
 1. Create local directory
 2. Install django with pipenv, as well as Pipfile and Piplock:
-
+habbit
 ```sh
 $ pipenv install django
 ```

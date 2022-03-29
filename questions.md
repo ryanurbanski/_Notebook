@@ -1,5 +1,17 @@
 # Code Questions
 
+
+## 2022-03-29 
+
+## After class with Amy
+1. My local development server is still running on 8000, is it reading my.env?
+2. Find and solve local migration bug.. datetime.datetime etc
+3. Wipe servers if not deployed?
+4. Where does Meta class comes from?
+5. `from rest_framework import generics` does not seem to be recognized in my `snippets/views.py` or `snippets/urls.py`
+6. where is `rest_framework` sourcecode?
+
+   
 ## 2022-03-28 
 
 - When do we use related names in models?  Does that only show up in the db gui?
