@@ -1,5 +1,9 @@
 # Code Questions
 
+## 2022-03-28 
+
+- When do we use related names in models?  Does that only show up in the db gui?
+
 
 ## 2022-03-28
 
