@@ -36,6 +36,8 @@ class CustomUser(AbstractUser):
         return self.username
 ```
 
+- here is a great reference / tutorial for setting up a [Custom User Model](https://learndjango.com/tutorials/django-custom-user-model). **NOTE:** remember to do this before making migrations to the database!!
+
 5. Migrate to SQLite local db for development:
 - (pmm) is set as this alias
 ```sh

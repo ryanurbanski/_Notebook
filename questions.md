@@ -3,12 +3,17 @@
 
 ## 2022-03-28
 
+### General
+- Is there a way to get class notes from `momentum-team-11.github.io` already in .md format?
+
+### Documentation Q's
+
 - Learning question: I want to create a radio for a boolean value in my form.
 - I open django source code and search for the Class I want.
 - class ModelForm is in models.py inside the django/forms directory.. so when we write from django import forms do we get access then to all 'modules' and classes within them? 
 - class ModelForm inherits from BaseModelForm, so I go to that source
-
-- 
+- I am assuming these are the list of all attributes and methods I can override.. so may not be a question here.  Use for a while and come back to.
+- When I lookup `class BooleanField` it gives me a list of all the available fields and it looks like the template gives a true or false checkbox for model boolean fields.
 
 ## 2022-03-26
 
