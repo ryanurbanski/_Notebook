@@ -8,6 +8,9 @@
   - Navigate files using VIM
   - Use `gd` when over a reference I want to go directly to
 - Find and replace all in a file
+- Search for registration-redux in notes
+  - Use `gd` to open document
+  - Use `cmd F, cmd L` to open the link in browser directly from notes
 
 # Personal bindings
 `<leader>`, `d` to add a snippet with the current year-month-day for journal entries
@@ -18,6 +21,4 @@
 ## Not useful but still cool
 Switch between braces with `%` in normal mode.
 
-
-## 2022-03-28 
 
