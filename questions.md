@@ -3,8 +3,14 @@
 
 ## 2022-03-29 
 
+1. See if Paul or one of the front end peeps knows: 
+    - How do I make the colums in bulma stay the same size regardless of the number of elements in the row / grid?
+
+
+## 2022-03-29 
+
 ## After class with Amy
-1. My local development server is still running on 8000, is it reading my.env?
+1. My local development server is still running on 8000, is it reading my .env?
 2. Find and solve local migration bug.. datetime.datetime etc
 3. Wipe servers if not deployed? Need this alot lol
 4. Where does Meta class comes from?
