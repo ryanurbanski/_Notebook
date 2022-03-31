@@ -19,6 +19,7 @@
 
 
 ## Not useful but still cool
-Switch between braces with `%` in normal mode.
+- Switch between braces with `%` in normal mode.
+- Capitalize text string quickly with `viW`
 
 

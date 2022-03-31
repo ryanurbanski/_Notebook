@@ -1,6 +1,12 @@
 # Code Questions
 
 
+## 2022-03-30 
+1. If we don't use registration redux, do we still make a User class in Models from AbstractUser?
+2. Should we start our project by creating a local postgres db and depoloying to a new Heroku db?
+3. It doesn't seem like settings.py recognizes my environ import
+    - SECRET_KEY not configured properly again.
+
 ## 2022-03-29 
 
 1. See if Paul or one of the front end peeps knows: 
