@@ -6,6 +6,7 @@
 2. Should we start our project by creating a local postgres db and depoloying to a new Heroku db?
 3. It doesn't seem like settings.py recognizes my environ import
     - SECRET_KEY not configured properly again.
+4. auth.User clashes with models.User when I try to add. I really don't understand users lol.
 
 ## 2022-03-29 
 

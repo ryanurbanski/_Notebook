@@ -1,6 +1,7 @@
 # Fun vim tricks
 
 ## Useful scenarios / Magic :smile:
+- Multiline select all lines that contain `variable = ` and comment them out
 - Nesting html blocks
 - Indent and exdent with:   `  > and < ` in visual mode
 - I want to search to see what files reference a given variable.

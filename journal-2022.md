@@ -1,6 +1,24 @@
 # Journal 2022
 
 
+## 2022-04-01 
+
+In lecture today with Amy she gave us a few sites for reference I wanted to make sure to check out this weekend on Django REST Framework and other things RESTful:
+
+### Serializers
+[Serializers](https://testdriven.io/blog/drf-serializers/)
+
+This one had to do with resolving a problem that Emily had today in class.  See video:
+
+[Slug-Related Field](https://www.django-rest-framework.org/api-guide/relations/#slugrelatedfield)
+
+This topic kept coming up in class today:
+
+[Nested Relationships](https://www.django-rest-framework.org/api-guide/relations/#nested-relationships)
+
+Another one to figure out after watching the video:
+
+[Writable Nested Serializers](https://www.django-rest-framework.org/api-guide/relations/#writable-nested-serializers)
 
 ## 2022-03-24
 
