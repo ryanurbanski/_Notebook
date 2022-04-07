@@ -71,6 +71,17 @@ $ python manage.py createsuperuser
 ## Extensions 
 
 ---
+
+### psycopg2-binary
+[Documentation](https://momentumlearn.notion.site/Using-Postgres-Locally-6d24cd1ea8854eabb875023d6696fba9)
+
+```sh
+$ pipenv install django-registration-redux
+```
+**Settings**
+- Install django.contrib.auth and django.contrib.sites to the project 
+
+<hr>
   
 ### django-registration-redux
 [Documentation](https://django-registration-redux.readthedocs.io/en/latest/quickstart.html)
@@ -84,13 +95,19 @@ $ pipenv install django-registration-redux
 <hr>
 
 ### django-environ
-[Documentation](https://django-environ.readthedocs.io/en/latest/)
-
+[Documentation](https://django-environ.readthedocs.io/en/latest/getting-started.html)
 ```sh
 $ pipenv install django-environ
 ```
 **Settings**
 - After install create a `.env` file in project root directory with the following sample example from our 'Flashcards' app:
+
+
+### django-extensions
+[Documentation](https://django-extensions.readthedocs.io/en/latest/)
+```sh
+$ pipenv install django-extensions
+```
 
 
 ## 

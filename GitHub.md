@@ -19,3 +19,14 @@ $ gh repo create
 
     git remote add origin git@github.com:alexpchin/<reponame>.git
     git push -u origin main
+
+### Create a new branch from an earlier commit
+
+```shell
+git branch <branchname> [<commit-id>]
+```
+
+Example:
+```shell
+git branch new-feature-branch e6f99e34861b0a1558351162c4ac867e0d8a807e
+```

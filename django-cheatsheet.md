@@ -13,6 +13,10 @@ Show a list of all urls endpoints for a django site
 pm show_urls
  ```
 
+How to implement a Custom User Model in Django:
+
+[Custom User Model](https://learndjango.com/tutorials/django-custom-user-model)
+
 <hr>
 
 ***Taken from: [github.com/lucrae/django-cheat-sheet](https://github.com/lucrae/django-cheat-sheet/blob/master/README.md).  I've copied it in whole for reference and to learn how to make better markdown notes files.***

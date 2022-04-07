@@ -1,6 +1,25 @@
 # Code Questions
 
 
+
+
+
+## 2022-04-05 
+
+1. 
+2. BIG: how do we view Markdown file source from a webpage
+
+
+## 2022-04-04 
+
+1. When I follow the trace stack where are all these init files being kept? psycopg2 has one that causes an error in my application but I can't find it.
+
+## 2022-04-04 
+
+1. how many servers are there for an app like QuestionBox?
+2. if we had pictures for a user or profile, do we store them in the db server?
+
+
 ## 2022-03-30 
 1. If we don't use registration redux, do we still make a User class in Models from AbstractUser?
 2. Should we start our project by creating a local postgres db and depoloying to a new Heroku db?
