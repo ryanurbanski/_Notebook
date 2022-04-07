@@ -23,6 +23,7 @@
 - scroll up/down with cursor
 - page up/down with escape + u/d
 - move up/down by paragraph
+- e/E, b/B
 
 ## Folding
 

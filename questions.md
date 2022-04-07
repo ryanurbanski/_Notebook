@@ -2,6 +2,14 @@
 
 
 
+## 2022-04-07 
+
+- What is the diference between related_name and verbose_name in django orm ?
+- how do I read the information on types of functions in the 'datetime' import from models.py?
+  - What is the diferecnces between the types of functions defiled in this class?
+    - @property
+    - @classmethod
+    - regular with no ''whatever those types of tags above'' are called
 
 
 ## 2022-04-05 
