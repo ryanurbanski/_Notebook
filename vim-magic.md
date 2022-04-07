@@ -1,6 +1,7 @@
 # Fun vim tricks
 
 ## Useful scenarios / Magic :smile:
+- See all the things you can pass into a table model with django ORM... BIG ONE!!!!
 - Multiline select all lines that contain `variable = ` and comment them out
 - Nesting html blocks
 - Indent and exdent with:   `  > and < ` in visual mode
