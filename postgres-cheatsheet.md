@@ -25,5 +25,5 @@ To **re-create a database after its been dropped**, the username will still be i
 
 Since I make the username and db name the same for simplicity on this setup I don't need to recreate a username. Just run:
 ```shell
-dropdb <username> <databaseName> 
+createdb -U <username> <databaseName> 
 ```

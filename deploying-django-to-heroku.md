@@ -25,8 +25,8 @@ For every database you will need to run through this process.
 ```sh
 createuser -d <username> 
 createuser -d habbit-tracker 
-createdb U <username> <dbname>
-createdb U habbit-tracker habbit-tracker
+createdb -U <username> <dbname>
+createdb -U habbit-tracker habbit-tracker
 ```
 
 Show list of all of databases

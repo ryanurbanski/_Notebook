@@ -19,9 +19,12 @@ pipenv install
 
 
 ## Django Environ
-## Psychopg-binary
+
+
+## PsychoPG Binary
 This is a Python PostgreSQL adapter
 ```shell
-pipenv install 
+pipenv install psycopg2-binary
 ```
-`settings.py` : 
+`settings.py` : is there where I add a 'Procfile'??
+

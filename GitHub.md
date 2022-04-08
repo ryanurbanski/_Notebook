@@ -26,7 +26,26 @@ $ gh repo create
 git branch <branchname> [<commit-id>]
 ```
 
+
+### Delete a branch
+
+```shell
+git branch -d <branchName>
+```
+
 Example:
 ```shell
 git branch new-feature-branch e6f99e34861b0a1558351162c4ac867e0d8a807e
+```
+
+### Show a list of all commits
+
+```shell
+git log --oneline
+```
+
+### Show a list of all branches
+
+```shell
+git branch
 ```

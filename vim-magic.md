@@ -25,6 +25,12 @@
 - move up/down by paragraph
 - e/E, b/B
 
+## HOly Fuck!?
+[**Vim multi-line**](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/multiple-cursors/)
+[**Vim easymotion**](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-even-faster-with-vim-sneak-and-easymotion/)
+[**Vim Surround**](https://github.com/tpope/vim-surround)
+[**Vim Sneak**](https://github.com/justinmk/vim-sneak)
+
 ## Folding
 
 ## Misc Basics
