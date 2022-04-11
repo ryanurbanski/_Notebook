@@ -26,6 +26,11 @@
 - move up/down by class block `[` or `]`
 - e/E, b/B
 
+## Most Common Compound
+- ciw
+- ea / Ea
+- bi / Bi
+
 ## HOly Fuck!?
 [**Vim multi-line**](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/multiple-cursors/)
 [**Vim easymotion**](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-even-faster-with-vim-sneak-and-easymotion/)
