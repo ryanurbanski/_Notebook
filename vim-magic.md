@@ -23,7 +23,7 @@
 - scroll up/down with cursor
 - page up/down with escape + u/d
 - move up/down by paragraph `{` or `}`
-- move up/down by class block `[` or `]`
+- move to next or previous class block `[[` or `]]`
 - e/E, b/B
 
 ## Most Common Compound
