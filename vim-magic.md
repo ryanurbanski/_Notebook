@@ -31,6 +31,12 @@
 - ea / Ea
 - bi / Bi
 
+
+## Vim Surround
+ysiW' - surround innerword with a single quote
+S" - In visual mode to surround selection with "
+
+
 ## HOly Fuck!?
 [**Vim multi-line**](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/multiple-cursors/)
 [**Vim easymotion**](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-even-faster-with-vim-sneak-and-easymotion/)
