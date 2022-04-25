@@ -24,6 +24,9 @@ pytest --version
 
 Once pytest is installed, pass the command:
 
+(note: You don't have to run `python manage.py shell` to start the virual 
+environment but it may be a good idea anyway)
+
 
 ```shell
 python -m pytest hello_world_test.py
