@@ -49,3 +49,8 @@ git log --oneline
 ```shell
 git branch
 ```
+
+
+# HUGE ONE!!  
+
+`git merge main` when on branch after pulling from main
