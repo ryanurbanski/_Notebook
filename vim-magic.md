@@ -32,6 +32,26 @@
 - bi / Bi
 
 
+## Quickly Substitute all after a certain pattern to end of the line
+
+This is a pattern that pops up in REST client for drf files:
+
+```http
+Authorization: Token c08bc9a9e714c2da2f04b9e5d405c281a75f61d7
+```
+
+My goal is to search a large file and replace all of the token keys with a new key.
+`example: 07e209c66dbed31849fd5ff64ddc5d338635c39d'
+
+Using 'Token' as a marker the following commands will substitute from the end of `Token ` to the end of the line and replace with the new key.
+
+Select all text with Visual Line mode then use:
+```vim
+:s/Token .*/Token 07e209c66dbed31849fd5ff64ddc5d338635c39d/g
+```
+
+
+
 ## Vim Surround
 ysiW' - surround innerword with a single quote
 S" - In visual mode to surround selection with "
