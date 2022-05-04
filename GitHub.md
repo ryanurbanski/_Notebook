@@ -1,10 +1,17 @@
 # GitHub Notes
 
+## Common
+`git status` list which unstaged files have changed
+`git diff` list (unstaged) changes to files
+`git log` list recent commits
+
 ## New Repo from command Line
 ```sh
 $ gh repo create
 ```
+
 ## Setting up a new Git Repo
+
 
 ### Create a new local repo and push to remote
 
@@ -54,3 +61,14 @@ git branch
 # HUGE ONE!!  
 
 `git merge main` when on branch after pulling from main
+
+# Merging Branch back to main
+`git checkout main` checkout main branch
+`git merge branchname` merge branch into main
+
+
+### Branches on Remote
+`git branch` list currently existing branches (local)
+`git fetch origin` get information on all remote branches to display on local
+`git branch -r` show remote branches
+`git branch -r --no-merged` show unmerged remote branches
